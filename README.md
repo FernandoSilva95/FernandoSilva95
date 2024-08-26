@@ -1,6 +1,9 @@
-# Olá, sou o Fernando! 👋
+### <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;"> Prazer, me chamo Fernando!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Analista+de+Dados+e+Dev.+Backend!)](https://github.com/FernandoSilva95)
+| Analista de Dados |
+| Desenvolvedor Backend |
+
+<i>(Recife, PE - Brasil) </i>
 
 ## 📲 Conecte-se comigo
 
