@@ -6,7 +6,7 @@
 ## 📲 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fernandosilva29)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:antonnyfernando@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:antonnyfernando@gmail.com)
 
 ## GitHub Stats
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoSilva95&show_icons=true&theme=dracula)
