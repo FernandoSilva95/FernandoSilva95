@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;"> Prazer, me chamo Fernando!
+# <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;"> Prazer, me chamo Fernando
 
 | Analista de Dados |
 | Desenvolvedor Backend |
